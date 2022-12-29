@@ -12,7 +12,7 @@ Or simply download the JAR file, then Right click & Select Open to Run the Conne
 
 ## Playground
 7x6 board. As soon as you run the app you will be prompted to enter the Player names.
-![PlayGround](https://github.com/Ritesh-Kumar-Mandal/Connect4/blob/ccede2387805b8ddde25b07fd7d1f8ecd7780a00/screenshots/Playground.png)](https://github.com/Ritesh-Kumar-Mandal/Connect4/blob/e9a1bd990d2de29793f59fa3cd3e4e3350afbe7c/screenshots/HomePage.png)
+![PlayGround](https://github.com/Ritesh-Kumar-Mandal/Connect4/blob/e9a1bd990d2de29793f59fa3cd3e4e3350afbe7c/screenshots/HomePage.png)
 
 
 ## PlayerNames
