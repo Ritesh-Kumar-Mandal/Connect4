@@ -2,7 +2,6 @@
 Java implementation for creating the Connect4 game. Connect 4 is a turn-based 2-player game played on a 7x6 board. Each player places their checkers from the lowest row until the highest one. The goal is to align four checkers horizontally, vertically, or diagonally.
 
 ## To Run
-
 ```sh
 https://github.com/Ritesh-Kumar-Mandal/Connect4.git
 cd Connect4
@@ -12,12 +11,14 @@ Or simply download the JAR file, then Right click & Select Open to Run the Conne
 ![Run](https://github.com/Ritesh-Kumar-Mandal/Connect4/blob/cea846ad72973e2b7d462b44829d223e919e671b/screenshots/Run.png)
 
 ## Playground
-![SwaggerUI](https://github.com/Ritesh-Kumar-Mandal/TodoList/blob/3b5147a69be95fe2277d88f89f6832766b026b54/screenshots/SwaggerUI.png)
 7x6 board. As soon as you run the app you will be prompted to enter the Player names.
+![PlayGround](https://github.com/Ritesh-Kumar-Mandal/Connect4/blob/ccede2387805b8ddde25b07fd7d1f8ecd7780a00/screenshots/Playground.png)
+
 
 ## PlayerNames
-![PlayerNames](https://github.com/Ritesh-Kumar-Mandal/Connect4/blob/cea846ad72973e2b7d462b44829d223e919e671b/screenshots/PlayerNames.png)
 After entering the player names, you can proceed to the playground and begin playing the game. The app will notify the players when it is their turn to play.
+![PlayerNames](https://github.com/Ritesh-Kumar-Mandal/Connect4/blob/cea846ad72973e2b7d462b44829d223e919e671b/screenshots/PlayerNames.png)
+
 
 ## Winnig Scenarios
 You must align four checkers horizontally, vertically, or diagonally to win the game.
